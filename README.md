@@ -1,4 +1,4 @@
-巡线小车强化学习仿真系统
+#巡线小车强化学习仿真系统
 
 这是一个使用深度强化学习（DQN）来训练虚拟巡线小车的仿真系统。该系统使用 PyGame 进行可视化，PyTorch 实现深度学习，通过强化学习使小车学会自主巡线。
 
@@ -22,6 +22,7 @@ cd line-follower-rl
 pip install -r requirements.txt
 使用方法
 训练模式
+
 python main.py --mode train --episodes 1000 --render_interval 50 --batch_size 32
 参数说明：
 
