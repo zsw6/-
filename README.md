@@ -22,7 +22,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/Reinforcement-Learning-based-Line-following-Car-Simulation
+git clone https://github.com/zsw6/Reinforcement-Learning-based-Line-following-Car-Simulation
 cd qiang_study
 ```
 
