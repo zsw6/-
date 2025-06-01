@@ -128,7 +128,7 @@ line-follower-rl/
 
 ## 许可证
 
-MIT License
+本项目采用 GNU Affero 通用公共许可证 v3.0 授权
 
 ## 联系方式
 
