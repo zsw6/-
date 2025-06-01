@@ -45,6 +45,7 @@ python main.py --mode train --episodes 1000 --render_interval 50 --batch_size 32
 - `--batch_size`: 训练批次大小（默认：32）
 
 ### 测试模式
+![屏幕截图 2025-06-01 190737](https://github.com/user-attachments/assets/a24343b6-67e2-4867-a0a6-12c413c4b46b)
 
 ```bash
 python main.py --mode test --test_episodes 5
