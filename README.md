@@ -22,8 +22,8 @@
 
 1. 克隆仓库：
 ```bash
-git clone [repository-url]
-cd line-follower-rl
+git clone https://github.com/yourusername/VisageX.git
+cd qiang_study
 ```
 
 2. 安装依赖：
